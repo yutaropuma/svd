@@ -1,0 +1,755 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    min-width: 1500px;
+}
+
+.container1 {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 666px;
+}
+.img1 {
+    width: 100%;
+    height: 666px;
+}
+.logo {
+    position: absolute;
+    left: 165px;
+    top: 50px;
+}
+
+.navigation {
+    position: absolute;
+    top: 55px;
+    left: 533px;
+    width: 742px;
+    height: 64px;
+}
+.navigation > ul {
+    display: flex;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+.main {
+    position: absolute;
+    top: 19px;
+
+    transition: color 0.6s;
+}
+.main:hover {
+    color: orangered;
+}
+
+.menu {
+    position: absolute;
+    top: 19px;
+    left: 91px;
+
+    transition: color .6s;
+}
+.menu:hover {
+    color: orangered;
+}
+.o_nas {
+    position: absolute;
+    top: 19px;
+    left: 158px;
+
+    transition: .6s;
+}
+.o_nas:hover {
+    color: orangered;
+}
+.bron {
+    position: absolute;
+    top: 19px;
+    left: 228px;
+
+    transition: .6s;
+}
+.bron:hover {
+    color: orangered;
+}
+.navigation > ul > li > a {
+    font-family: Open Sans, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    margin-left: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.fa-cart-arrow-down {
+    position: absolute;
+    color: white;
+    width: 19.98px;
+    height: 17.11px;
+    left: 312px;
+    top: 19.22px;
+    cursor: pointer;
+}
+.line1 {
+    position: absolute;
+    left: 347px;
+    top: 1px;
+}
+.fa-phone-alt {
+    position: absolute;
+    left: 368px;
+    top: 2.5px;
+    width: 23px;
+    height: 23px;
+    color: white;
+    cursor: pointer;
+}
+.number {
+    position: absolute;
+    left: 396px;
+    width: 131px;
+    height: 25px;
+    text-decoration: none;
+    color: white;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+
+    transition: color .5s;
+}
+.number:hover {
+    text-decoration: underline;
+    color: orangered;
+}
+
+.text1 {
+    position: absolute;
+    top: 26px;
+    left: 368px;
+    width: 154px;
+    height: 38px;
+    font-family: Times New Roman,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: white;
+}
+.zakaz_stola {
+    position: relative;
+    left: 585px;
+    top: 4px;
+    width: 157px;
+    height: 47px;
+    background: #FF7400;
+    cursor: pointer;
+}
+.zakaz {
+    text-transform: uppercase;
+    width: 120px;
+    height: 19px;
+    font-family: Times New Roman,serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.heading {
+    position: absolute;
+    width: 556px;
+    height: 179px;
+    left: 175px;
+    top: 262px;
+}
+.dorbov {
+    position: absolute;
+    left: 24px;
+    width: 430px;
+    height: 57px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+}
+.nashrest {
+    position: absolute;
+    top: 57px;
+    width: 556px;
+    height: 85px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+}
+.line2 {
+    position: absolute;
+    top: 165px;
+    left: 96px;
+}
+.dom_luchsh_edi {
+    position: absolute;
+    top: 154px;
+    left: 165px;
+    width: 169px;
+    height: 25px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.line3 {
+    position: absolute;
+    top: 166px;
+    left: 342px;
+}
+.viewmenu {
+    position: absolute;
+    top: 200px;
+    left: 181px;
+    width: 137px;
+    height: 47px;
+    background: orangered;
+    cursor: pointer;
+}
+.view_menu {
+    width: 82px;
+    height: 19px;
+    font-family: Open Sans,serif;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.box1 {
+    position: absolute;
+    left: 193px;
+    top: 578px;
+    width: 349px;
+    height: 328px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+.tarelka1 {
+    position: absolute;
+    left: 130px;
+    top: 61.45px;
+}
+.magicatmosfer {
+    position: absolute;
+    top: 139px;
+    left: 43px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+}
+.atmosfera {
+    color: #BC9060;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+}
+.vnashzaved {
+    position: absolute;
+    left: 15px;
+    top: 189px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+}
+
+.box2 {
+    position: absolute;
+    left: 588px;
+    top: 578px;
+    width: 349px;
+    height: 328px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+.bestkachestvoedi {
+    position: absolute;
+    left: 58px;
+    top: 139px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+}
+.eats {
+    color: #BC9060;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+}
+.tarelka2 {
+    position: absolute;
+    left: 130px;
+    top: 61.45px;
+}
+.kachestvo {
+    position: absolute;
+    top: 189px;
+    left: 13px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+}
+
+.box3 {
+    position: absolute;
+    left: 983px;
+    top: 578px;
+    width: 349px;
+    height: 328px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+.tarelka3 {
+    position: absolute;
+    left: 130px;
+    top: 61.45px;
+}
+.expensiveeat {
+    position: absolute;
+    left: 92px;
+    top: 139px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+}
+.eat {
+    color: #BC9060;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+}
+.stoimost {
+    position: absolute;
+    top: 189px;
+    left: 13px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+}
+
+
+.our_story {
+    position: absolute;
+    width: 100%;
+    height: 977px;
+    top: 1044px;
+    background-color: white;
+
+}
+
+.nashistr {
+    position: absolute;
+    left: 220px;
+    top: 16px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 62px;
+    color: #000000;
+}
+.istoria {
+    color: #BC9060;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 62px;
+}
+
+.story {
+    position: absolute;
+    left: 166px;
+    top: 99px;
+    width: 444px;
+    height: 217px;
+
+}
+.kak {
+    position: absolute;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #656363;
+}
+
+.id93 {
+    position: absolute;
+    left: 247px;
+    top: 355px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    color: #BC9060;
+}
+.drinks {
+    position: absolute;
+    left: 228px;
+    top: 411px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.id206 {
+    position: absolute;
+    left: 353px;
+    top: 355px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    color: #BC9060;
+}
+.food {
+    position: absolute;
+    left: 370px;
+    top: 411px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.id71 {
+    position: absolute;
+    left: 467px;
+    top: 355px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 54px;
+    text-align: center;
+    color: #BC9060;
+}
+.zakuski {
+    position: absolute;
+    left: 452px;
+    top: 411px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+
+
+.pik1 {
+    position: absolute;
+    left: 1092px;
+    top: 34px;
+}
+.pik2 {
+    position: absolute;
+    left: 1006px;
+    top: 1px;
+}
+.pik3 {
+    position: absolute;
+    left: 1090px;
+    top: 198px;
+}
+.pik4 {
+    position: absolute;
+    left: 803px;
+    top: 34px;
+}
+
+.pik5 {
+    position: absolute;
+    width: 100%;
+    top: 620px;
+}
+.pik6 {
+    position: absolute;
+    width: 100%;
+    height: 377px;
+    top: 620px;
+}
+
+
+.zagolovok {
+    position: absolute;
+    left: 165px;
+    top: 700px;
+}
+.otprav {
+    position: absolute;
+    width: 601px;
+    height: 120px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 52px;
+    line-height: 60px;
+    color: #D67E34;
+}
+.only {
+    position: absolute;
+    top: 840px;
+    left: 165px;
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.stolik {
+    position: absolute;
+    top: 775px;
+    left: 1150px;
+    width: 157px;
+    height: 47px;
+    background: #FF7400;
+    cursor: pointer;
+}
+.stol {
+    font-family: Open Sans,serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+
+}
+
+
+.nashi_bluda {
+    position: absolute;
+    top: 2194px;
+    left: 205px;
+    width: 1129px;
+    height: 679px;
+}
+
+.nashblud {
+    position: absolute;
+    left: 423px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 62px;
+}
+.eda {
+    color: #BC9060;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 62px;
+}
+
+.pizza {
+    position: absolute;
+    top: 205px;
+}
+.hamb1 {
+    position: absolute;
+    left: 475px;
+    top: 201px;
+}
+.hamb2 {
+    position: absolute;
+    left: 475px;
+    top: 370px;
+}
+.hamb3 {
+    position: absolute;
+    left: 475px;
+    top: 539px;
+}
+
+.bluda {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 5000px;
+    background-color: black;
+}
+
+.min1 {
+    position: absolute;
+    left: 665px;
+    top: 241px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+.vec1 {
+    position: absolute;
+    left: 853px;
+    top: 259px;
+}
+
+.min2{
+    position: absolute;
+    left: 665px;
+    top: 405px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+.vec2 {
+    position: absolute;
+    left: 853px;
+    top: 423px;
+}
+
+.min3 {
+    position: absolute;
+    left: 665px;
+    top: 580px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+.vec3 {
+    position: absolute;
+    left: 853px;
+    top: 598px;
+}
+
+.r220 {
+    position: absolute;
+    left: 1068px;
+    top: 246px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+.ru220 {
+    position: absolute;
+    left: 1068px;
+    top: 410px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+.rub220 {
+    position: absolute;
+    left: 1068px;
+    top: 585px;
+    font-family: Tinos,serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.our_menu {
+    position: absolute;
+    width: 100%;
+    height: 1036px;
+    left: -1px;
+    top: 3050px;
+}
+.bar {
+    width: 100%;
+}
+
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: red; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 50%; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
