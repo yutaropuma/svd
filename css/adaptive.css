@@ -1,0 +1,1269 @@
+@media only screen and (max-width: 1200px) {
+    .logo {
+        position: absolute;
+        left: 43px;
+        width: 81px;
+    }
+    .navigation {
+        position: absolute;
+        top: 55px;
+        left: 235px;
+        width: 742px;
+        height: 64px
+    }
+
+    .heading {
+        position: absolute;
+        width: 556px;
+        height: 179px;
+        left: 76px;
+        top: 224px;
+    }
+    .dorbov {
+        font-size: 43px;
+    }
+    .nashrest {
+        top: 45px;
+        font-size: 70px;
+    }
+    .line2 {
+        position: absolute;
+        left: 53px;
+    }
+    .dom_luchsh_edi {
+        position: absolute;
+        left: 134px;
+    }
+    .line3 {
+        position: absolute;
+        left: 324px;
+    }
+    .viewmenu {
+        position: absolute;
+        left: 152px;
+    }
+    .box1 {
+        position: absolute;
+        left: 68px;
+        width: 263px;
+        height: 257px;
+    }
+    .tarelka1 {
+        position: absolute;
+        left: 91px;
+        top: 16.75px;
+    }
+    .magicatmosfer {
+        position: absolute;
+        left: 25px;
+        top: 100px;
+        font-size: 21px;
+    }
+    .atmosfera {
+        position: absolute;
+        margin-left: 8px;
+        font-size: 21px;
+    }
+    .vnashzaved {
+        position: absolute;
+        top: 138px;
+        left: 11px;
+        font-size: 20px;
+    }
+    .box2 {
+        position: absolute;
+        left: 372px;
+        width: 263px;
+        height: 257px;
+    }
+    .tarelka2 {
+        position: absolute;
+        left: 91px;
+        top: 16.75px;
+    }
+    .bestkachestvoedi {
+        position: absolute;
+        top: 100px;
+        left: 33px;
+        font-size: 21px;
+    }
+    .eats {
+        font-size: 21px;
+    }
+    .kachestvo {
+        position: absolute;
+        top: 153px;
+        font-size: 22px;
+    }
+    .box3 {
+        position: absolute;
+        left: 676px;
+        width: 263px;
+        height: 257px;
+    }
+    .tarelka3 {
+        position: absolute;
+        left: 91px;
+        top: 16.75px;
+    }
+    .expensiveeat {
+        position: absolute;
+        top: 100px;
+        left: 66px;
+        font-size: 21px;
+    }
+    .eat {
+        font-size: 21px;
+    }
+    .stoimost {
+        position: absolute;
+        top: 141px;
+        font-size: 21px;
+    }
+    .our_story {
+        position: absolute;
+        top: 939px;
+    }
+    .nashistr {
+        font-size:46px;
+    }
+    .istoria {
+        font-size: 46px;
+    }
+    .nashistr {
+        position: absolute;
+        left: 128px;
+    }
+    .story {
+        position: absolute;
+        left: 54px;
+    }
+    .id93 {
+        position: absolute;
+        left: 131px;
+        top: 299px;
+    }
+    .drinks {
+        position: absolute;
+        left: 112px;
+        top: 352px;
+    }
+    .id206 {
+        position: absolute;
+        top: 299px;
+        left: 246px;
+    }
+    .food {
+        position: absolute;
+        top: 352px;
+        left: 261px;
+    }
+    .id71 {
+        position: absolute;
+        top: 299px;
+        left: 377px;
+    }
+    .zakuski {
+        position: absolute;
+        top: 352px;
+        left: 363px;
+    }
+    .pik4 {
+        position: absolute;
+        left: 576px;
+        width: 204px;
+    }
+    .pik2 {
+        position: absolute;
+        left: 706px;
+        top: 1px;
+        width: 200px;
+    }
+    .pik3 {
+        position: absolute;
+        left: 773px;
+        top: 154px;
+        width: 204px;
+    }
+    .pik1 {
+        position: absolute;
+        left: 732px;
+        top: 34px;
+    }
+    .pik6 {
+        position: absolute;
+        width: 100%;
+        height: 247px;
+        top: 620px;
+    }
+    .zagolovok {
+        position: absolute;
+        left: 79px;
+        top: 663px;
+    }
+    .only {
+        position: absolute;
+        top: 826px;
+        left: 79px;
+    }
+    .stolik {
+        position: absolute;
+        top: 702px;
+        left: 792px;
+    }
+    .nashi_bluda {
+        position: absolute;
+        top: 1911px;
+        left: 49px;
+    }
+    .nashblud {
+        position: absolute;
+        left: 357px;
+    }
+    .pizza {
+        position: absolute;
+        left: 24px;
+        top: 137px;
+        width: 344px;
+    }
+    .hamb1 {
+        position: absolute;
+        left: 405px;
+        top: 137px;
+        width: 130px;
+    }
+    .hamb2 {
+        position: absolute;
+        left: 405px;
+        top: 263px;
+        width: 130px;
+    }
+    .hamb3 {
+        position: absolute;
+        left: 405px;
+        top: 388px;
+        width: 130px;
+    }
+    .min1 {
+        position: absolute;
+        left: 561px;
+        top: 182px;
+        font-size: 24px;
+    }
+    .vec1 {
+        position: absolute;
+        left: 751px;
+        top: 200px;
+        width: 135px;
+    }
+    .r220 {
+        position: absolute;
+        left: 896px;
+        top: 185px;
+        font-size: 20px;
+    }
+    .min2 {
+        position: absolute;
+        left: 561px;
+        top: 303px;
+        font-size: 24px;
+    }
+    .vec2 {
+        position: absolute;
+        left: 751px;
+        top: 322px;
+        width: 135px;
+    }
+    .ru220 {
+        position: absolute;
+        left: 896px;
+        top: 308px;
+        font-size: 20px;
+    }
+    .min3 {
+        position: absolute;
+        top: 429px;
+        left: 561px;
+        font-size: 24px;
+    }
+    .vec3 {
+        position: absolute;
+        left: 751px;
+        top: 447px;
+        width: 135px;
+    }
+    .rub220 {
+        position: absolute;
+        left: 896px;
+        top: 432px;
+        font-size: 20px;
+    }
+    .our_menu {
+        position: absolute;
+        top: 2577px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .logo {
+        width: 75px;
+    }
+    .img1 {
+        height: 588px;
+    }
+    .navigation > ul > li > a {
+        font-size: 11px;
+    }
+    .navigation {
+        position: absolute;
+        left: 160px;
+    }
+    .number {
+        font-size: 13px;
+        position: absolute;
+        top: 2px;
+    }
+    .text1 {
+        font-size: 12px;
+    }
+    .zakaz_stola {
+        position: relative;
+        left: 495px;
+        top: 4px;
+        width: 96px;
+        border-radius: 50px;
+        height: 47px;
+        margin-left: 10px;
+    }
+    .zakaz {
+        font-size: 10px;
+    }
+    .box1 {
+        position: absolute;
+        left: 22px;
+        width: 209px;
+        height: 210px;
+    }
+    .tarelka1 {
+        width: 50px;
+    }
+    .magicatmosfer {
+        position: absolute;
+        left: 18px;
+        top: 62px;
+        font-size: 16px;
+    }
+    .atmosfera {
+        position: absolute;
+        margin-left: 17px;
+        font-size: 16px;
+    }
+    .vnashzaved {
+        position: absolute;
+        top: 94px;
+        font-size: 15px;
+    }
+
+    .box2 {
+        position: absolute;
+        left: 282px;
+        width: 209px;
+        height: 210px;
+    }
+    .tarelka2{
+        width: 50px;
+    }
+    .bestkachestvoedi {
+        position: absolute;
+        top: 62px;
+        font-size: 16px;
+    }
+    .eats {
+        font-size: 16px;
+    }
+    .kachestvo {
+        position: absolute;
+        top: 116px;
+        font-size: 15px;
+    }
+
+    .box3 {
+        position: absolute;
+        left:538px;
+        width: 209px;
+        height: 210px;
+    }
+    .tarelka3{
+        width: 50px;
+    }
+    .expensiveeat {
+        position: absolute;
+        top: 62px;
+        font-size: 16px;
+    }
+    .eat {
+        font-size: 16px;
+    }
+    .stoimost {
+        position: absolute;
+        top: 97px;
+        font-size: 15px;
+    }
+
+    .our_story {
+        position: absolute;
+        top: 866px;
+    }
+    .nashistr {
+        position: absolute;
+        left: 85px;
+        font-size: 33px;
+    }
+    .istoria {
+        font-size: 33px;
+    }
+    .kak {
+        font-size: 14px;
+    }
+    .story {
+        position: absolute;
+        top: 80px;
+        left: 22px;
+        width: 337px;
+        height: 300px;
+    }
+    .id93 {
+        position: absolute;
+        left: 41px;
+        top: 262px;
+    }
+    .drinks {
+        position: absolute;
+        left: 21px;
+        top: 314px;
+    }
+    .id206 {
+        position: absolute;
+        top: 262px;
+        left: 153px;
+    }
+    .food {
+        position: absolute;
+        top: 314px;
+        left: 170px;
+    }
+    .id71 {
+        position: absolute;
+        top: 262px;
+        left: 272px;
+    }
+    .zakuski {
+        position: absolute;
+        top: 314px;
+        left: 256px;
+    }
+    .pik4 {
+        position: absolute;
+        left: 398px;
+        width: 163px;
+    }
+    .pik3 {
+        position: absolute;
+        left: 557px;
+        top: 109px;
+        width: 163px;
+    }
+    .pik2 {
+        position: absolute;
+        left: 505px;
+        top: 2px;
+        width: 163px;
+    }
+    .pik1 {
+        position: absolute;
+        left: 533px;
+        top: 5px;
+        width: 163px;
+    }
+    .otprav {
+        font-size: 23px;
+    }
+    .only {
+        position: absolute;
+        top: 765px;
+    }
+    .pik6 {
+        height: 191px;
+    }
+    .stolik {
+        position: absolute;
+        top: 706px;
+        left: 631px;
+        width: 114px;
+        border-radius: 60px;
+    }
+    .stol {
+        font-size: 13px;
+    }
+
+    .nashi_bluda {
+        position: absolute;
+        top: 1714px;
+        left: -6px;
+    }
+    .nashblud {
+        position: absolute;
+        left: 288px;
+    }
+    .pizza {
+        position: absolute;
+        left: 24px;
+        top: 137px;
+        width: 267px;
+    }
+    .hamb1 {
+        position: absolute;
+        left: 305px;
+        width: 102px;
+    }
+    .hamb2 {
+        position: absolute;
+        left: 305px;
+        top: 234px;
+        width: 102px;
+    }
+    .hamb3 {
+        position: absolute;
+        left: 305px;
+        top: 331px;
+        width: 102px;
+    }
+    .min1 {
+        position: absolute;
+        left: 433px;
+        top: 165px;
+        font-size: 22px;
+    }
+    .vec1 {
+        position: absolute;
+        left: 602px;
+        top: 182px;
+        width: 128px;
+    }
+    .r220 {
+        position: absolute;
+        left: 735px;
+        top: 168px;
+        font-size: 17px;
+    }
+    .min2 {
+        position: absolute;
+        left: 433px;
+        top: 261px;
+        font-size: 22px;
+    }
+    .vec2 {
+        position: absolute;
+        left: 602px;
+        top: 278px;
+        width: 128px;
+    }
+    .ru220 {
+        position: absolute;
+        left: 735px;
+        top: 264px;
+        font-size: 17px;
+    }
+    .min3 {
+        position: absolute;
+        top: 352px;
+        left: 433px;
+        font-size: 22px;
+    }
+    .vec3 {
+        position: absolute;
+        left: 602px;
+        top: 368px;
+        width: 128px;
+    }
+    .rub220 {
+        position: absolute;
+        left: 735px;
+        top: 354px;
+        font-size: 17px;
+    }
+    .our_menu {
+        position: absolute;
+        top: 2214px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .navigation {
+        display: none;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .dorbov {
+        font-size: 30px;
+        left: -36px;
+        top: -53px;
+    }
+
+    .nashrest {
+        top: -24px;
+        font-size: 34px;
+        left: -36px;
+    }
+
+    .line2 {
+        position: absolute;
+        top: 113px;
+        left: -65px;
+        width: 47px;
+    }
+
+    .dom_luchsh_edi {
+        position: absolute;
+        top: 101px;
+        left: -2px;
+        font-size: 16px;
+    }
+
+    .line3 {
+        position: absolute;
+        top: 113px;
+        left: 164px;
+        width: 47px;
+    }
+
+    .viewmenu {
+        position: absolute;
+        top: 138px;
+        left: 21px;
+        width: 110px;
+        height: 39px;
+    }
+
+    .img1 {
+        height: 493px;
+    }
+
+    .box1 {
+        position: absolute;
+        left: 166px;
+        top: 463px;
+        width: 163px;
+        height: 173px;
+    }
+
+    .tarelka1 {
+        width: 39px;
+        left: 68px;
+        top: 7px;
+    }
+
+    .magicatmosfer {
+        position: absolute;
+        left: 11px;
+        top: 43px;
+        font-size: 14px;
+    }
+
+    .atmosfera {
+        position: absolute;
+        margin-left: 8px;
+        font-size: 14px;
+    }
+
+    .vnashzaved {
+        position: absolute;
+        top: 84px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .box2 {
+        position: absolute;
+        top: 626px;
+        left: 33px;
+        width: 163px;
+        height: 173px;
+    }
+
+    .tarelka2 {
+        width: 39px;
+        left: 68px;
+        top: 7px;
+    }
+
+    .bestkachestvoedi {
+        position: absolute;
+        left: 17px;
+        top: 49px;
+        font-size: 14px;
+    }
+
+    .eats {
+        font-size: 14px;
+    }
+
+    .box3 {
+        position: absolute;
+        left: 299px;
+        top: 626px;
+        width: 163px;
+        height: 173px;
+    }
+
+    .tarelka3 {
+        width: 39px;
+        left: 68px;
+        top: 7px;
+    }
+
+    .expensiveeat {
+        position: absolute;
+        left: 36px;
+        top: 44px;
+        font-size: 15px;
+    }
+
+    .stoimost {
+        position: absolute;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .nashistr {
+        position: absolute;
+        left: 40px;
+        font-size: 24px;
+    }
+
+    .istoria {
+        font-size: 24px;
+    }
+
+    .kak {
+        font-size: 14px;
+        position: absolute;
+        left: -20px;
+        width: 250px;
+    }
+
+    .id93 {
+        position: absolute;
+        left: 36px;
+        top: 303px;
+        font-size: 37px;
+    }
+
+    .drinks {
+        position: absolute;
+        left: 21px;
+        top: 346px;
+        font-size: 17px;
+    }
+
+    .id206 {
+        position: absolute;
+        top: 303px;
+        left: 108px;
+        font-size: 37px;
+    }
+
+    .food {
+        position: absolute;
+        top: 346px;
+        left: 120px;
+        font-size: 17px;
+    }
+
+    .id71 {
+        position: absolute;
+        top: 303px;
+        left: 197px;
+        font-size: 37px;
+    }
+
+    .zakuski {
+        position: absolute;
+        top: 346px;
+        left: 185px;
+        font-size: 17px;
+    }
+
+    .pik4 {
+        position: absolute;
+        left: 248px;
+        width: 128px;
+    }
+
+    .pik2 {
+        position: absolute;
+        left: 320px;
+        top: 2px;
+        width: 131px;
+    }
+
+    .pik3 {
+        position: absolute;
+        left: 366px;
+        top: 109px;
+        width: 112px;
+    }
+
+    .pik1 {
+        position: absolute;
+        left: 333px;
+        top: 24px;
+        width: 129px;
+    }
+
+    .our_story {
+        height: 584px;
+    }
+
+    .container1 {
+        height: 499px;
+    }
+
+    .pik5 {
+        position: absolute;
+        width: 100%;
+        top: 448px;
+    }
+
+    .pik6 {
+        height: 120px;
+        position: absolute;
+        top: 448px;
+    }
+
+    .zagolovok {
+        position: absolute;
+        left: 9px;
+        top: 441px;
+    }
+
+    .otprav {
+        font-size: 17px;
+        width: 391px;
+        height: 48px
+    }
+
+    .only {
+        position: absolute;
+        left: 10px;
+        top: 530px;
+        width: 466px;
+        font-size: 18px;
+    }
+
+    .stolik {
+        position: absolute;
+        top: 525px;
+        left: 372px;
+        width: 102px;
+        height: 39px;
+    }
+
+    .nashi_bluda {
+        position: absolute;
+        top: 1488px;
+        height: 355px;
+        width: 492px;
+    }
+    .nashblud {
+        position: absolute;
+        left: 127px;
+    }
+    .pizza {
+        width: 137px;
+        height: 206px;
+    }
+    .hamb1 {
+        position: absolute;
+        left: 175px;
+        width: 76px;
+    }
+    .hamb2 {
+        position: absolute;
+        top: 206px;
+        left: 175px;
+        width: 76px;
+    }
+    .hamb3 {
+        position: absolute;
+        top: 276px;
+        left: 175px;
+        width: 76px;
+    }
+    .min1 {
+        position: absolute;
+        left: 258px;
+        top: 156px;
+        font-size: 17px;
+    }
+    .vec1 {
+        position: absolute;
+        left: 383px;
+        top: 172px;
+        width: 58px;
+    }
+    .min2 {
+        position: absolute;
+        left: 258px;
+        top: 224px;
+        font-size: 17px;
+    }
+    .vec2 {
+        position: absolute;
+        left: 383px;
+        top: 239px;
+        width: 58px;
+    }
+    .min3 {
+        position: absolute;
+        left: 258px;
+        top: 292px;
+        font-size: 17px;
+    }
+    .vec3 {
+        position: absolute;
+        left: 383px;
+        top: 307px;
+        width: 58px;
+    }
+    .r220 {
+        position: absolute;
+        left: 446px;
+        top: 157px;
+        font-size: 15px;
+    }
+    .ru220 {
+        position: absolute;
+        left: 446px;
+        top: 223px;
+        font-size: 15px;
+    }
+    .rub220 {
+        position: absolute;
+        left: 446px;
+        top: 292px;
+        font-size: 15px;
+    }
+    .our_menu {
+        position: absolute;
+        top: 1879px;
+        height: 350px;
+    }
+
+
+}
+
+@media only screen and (max-width: 480px) {
+    .navigation {
+        display: none;
+    }
+    .hamburger {
+        display: block;
+    }
+
+    .hamburger {
+        position: absolute;
+        left: 294px;
+    }
+    .logo {
+        width: 57px;
+        position: absolute;
+        top: 14px;
+        left: 15px;
+    }
+    .img1 {
+        height: 412px;
+    }
+    .heading {
+        position: absolute;
+        width: 241px;
+        height: 179px;
+        left: 7px;
+        top: 137px;
+    }
+    .dorbov {
+        font-size: 26px;
+        left: 3px;
+        top: -14px;
+        width: 230px;
+    }
+    .nashrest {
+        position: absolute;
+        left: 4px;
+        top: -2px;
+        font-size: 34px;
+        width: 230px;
+    }
+    .line3 {
+        position: absolute;
+        left: 195px;
+        width: 42px;
+        height: 2px;
+    }
+    .dom_luchsh_edi {
+        position: absolute;
+        left: 53px;
+        font-size: 14px;
+    }
+    .line2 {
+        position: absolute;
+        left: 0;
+        width: 42px;
+        height: 2px;
+    }
+    .viewmenu {
+        position: absolute;
+        left: 74px;
+        width: 93px;
+        height: 34px;
+    }
+    .view_menu {
+        font-size: 12px;
+    }
+    .box1 {
+        position: absolute;
+        left: 89px;
+        top: 382px;
+    }
+    .box2 {
+        position: absolute;
+        top: 552px;
+        left: 3px;
+        width: 157px;
+    }
+    .box3 {
+        position: absolute;
+        left: 170px;
+        top: 552px;
+        width: 157px;
+    }
+    .our_story {
+        height: 786px;
+        top: 773px;
+    }
+    .nashistr {
+        position: absolute;
+        top: 2px;
+        left: 93px;
+    }
+    .story {
+        position: absolute;
+        left: 34px;
+        width: 250px;
+        height: 224px;
+    }
+    .kak {
+        position: absolute;
+        left: 0;
+    }
+    .id93 {
+        position: absolute;
+        top: 312px;
+    }
+    .drinks {
+        position: absolute;
+        top: 355px;
+    }
+    .id71 {
+        position: absolute;
+        left: 265px;
+        top: 312px;
+    }
+    .zakuski {
+        position: absolute;
+        top: 355px;
+        left: 253px;
+    }
+    .id206 {
+        position: absolute;
+        top: 312px;
+        left: 141px;
+    }
+    .food {
+        position: absolute;
+        top: 355px;
+        left: 154px;
+    }
+    .pik4 {
+        position: absolute;
+        top: 438px;
+        left: 31px;
+    }
+    .pik2 {
+        position: absolute;
+        left: 115px;
+        top: 406px;
+    }
+    .pik3 {
+        position: absolute;
+        left: 172px;
+        top: 512px;
+    }
+    .pik1 {
+        position: absolute;
+        left: 139px;
+        top: 428px;
+    }
+
+    .pik5 {
+        position: absolute;
+        width: 100%;
+        top: 699px;
+    }
+    .pik6 {
+        height: 82px;
+        position: absolute;
+        top: 699px;
+    }
+    .zagolovok {
+        position: absolute;
+        top: 682px;
+    }
+    .otprav {
+        font-size: 11px;
+        width: 255px;
+        height: 41px;
+    }
+    .only {
+        position: absolute;
+        top: 754px;
+        width: 275px;
+        height: 26px;
+        font-size: 14px;
+    }
+    .stolik {
+        position: absolute;
+        top: 721px;
+        left: 268px;
+        width: 55px;
+        height: 31px;
+    }
+    .stol {
+        font-size: 8px;
+        line-height: 10px;
+        position: absolute;
+        left: 0;
+        top: 3px;
+    }
+
+    .nashi_bluda {
+        position: absolute;
+        top: 1582px;
+        height: 243px;
+        width: 330px;
+    }
+
+    .nashblud {
+        position: absolute;
+        left: 51px;
+        font-size: 45px;
+    }
+    .eda {
+        font-size: 45px;
+    }
+    .pizza {
+        width: 81px;
+        height: 139px;
+        position: absolute;
+        top: 96px;
+        left: 14px;
+    }
+    .hamb1 {
+        height: 37px;
+        position: absolute;
+        left: 100px;
+        top: 96px;
+        width: 39px;
+    }
+    .hamb2 {
+        height: 37px;
+        position: absolute;
+        left: 100px;
+        top: 147px;
+        width: 39px;
+    }
+    .hamb3 {
+        height: 37px;
+        position: absolute;
+        left: 100px;
+        top: 198px;
+        width: 39px;
+    }
+    .min1 {
+        position: absolute;
+        left: 145px;
+        top: 101px;
+        font-size: 14px;
+    }
+    .min2 {
+        position: absolute;
+        left: 145px;
+        top: 151px;
+        font-size: 14px;
+    }
+    .min3 {
+        position: absolute;
+        left: 145px;
+        top: 203px;
+        font-size: 14px;
+    }
+    .vec1 {
+        position: absolute;
+        left: 247px;
+        top: 118px;
+        width: 36px;
+    }
+    .vec2 {
+        position: absolute;
+        left: 247px;
+        top: 167px;
+        width: 36px;
+    }
+    .vec3 {
+        position: absolute;
+        left: 247px;
+        top: 218px;
+        width: 36px;
+    }
+    .r220 {
+        position: absolute;
+        left: 291px;
+        top: 101px;
+    }
+    .ru220 {
+        position: absolute;
+        left: 291px;
+        top: 151px;
+    }
+    .rub220 {
+        position: absolute;
+        left: 291px;
+        top: 203px;
+    }
+
+    .our_menu {
+        position: absolute;
+        top: 1856px;
+        height: 238px;
+    }
+
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}

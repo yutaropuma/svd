@@ -6,7 +6,8 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Restaurant</title>
-    <link href="style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/adaptive.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 </head>
 
@@ -16,9 +17,15 @@
 
     <div class="container1">
         <img class="logo" src="png/LOGO.png" >
-        <img class="img1" src="png/hero%20image.png">
+        <img class="img1" src="png/hero%20image.png" alt="/">
 
-        <div class="navigation">
+
+        <div class="hamburger" id="hamburger-1">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+            <div class="navigation">
             <ul>
                 <li><a class="main" href="#">главная</a></li>
                 <li><a class="menu" href="#">меню</a></li>
@@ -31,7 +38,9 @@
             <a  class="number" href="tel:+999-888-76-54">+999-888-76-54</a>
             <span class="text1">Свяжитесь с нами для бронирования</span>
             <a href="#"><button class="zakaz_stola"><i class="zakaz">заказ столика</i></button></a>
-        </div>
+            </div>
+
+
 
         <div class="heading">
             <span class="dorbov">Добро пожаловать в</span>
@@ -116,9 +125,7 @@
     </div>
 
 
-    <div class="our_menu">
-        <img class="bar" src="png/bar-1869656_1920%202.png">
-    </div>
+
 
 
 
@@ -140,6 +147,26 @@
             document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
         }
     </script>
+    <script>
+        $(function () {
+
+            $('.hamburger').click(function () {
+                $(this).toggleClass("is-active");
+
+                if ($(this).hasClass('is-active')){
+                    $('.navigation').slideDown(300);
+                }else{
+                    $(`.navigation`).slideUp(300);
+                }
+            });
+        });
+    </script>
+
+
+
+    <div class="our_menu">
+        <img class="bar" src="png/bar-1869656_1920%202.png">
+    </div>
 </div>
 </body>
 </html>
